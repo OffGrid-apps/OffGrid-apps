@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Dani
 
-<!--
-**OffGrid-apps/OffGrid-apps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical, privacy-focused software using Android, Termux, React, and Vite.
 
-Here are some ideas to get you started:
+## ItemWorth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ItemWorth** is an offline-first Progressive Web App for organizing, documenting, and estimating the value of personal belongings.
+
+It is designed for:
+
+- Personal organization
+- Home inventory records
+- Insurance documentation
+- Moving preparation
+- Estate planning
+- General asset management
+
+### Why ItemWorth
+
+- Works without an Internet connection
+- Stores inventory data on the user's device
+- Requires no account or subscription
+- Uses no backend or cloud database
+- Supports JSON backup and restoration
+- Designed for mobile accessibility
+- Color-blind-friendly interface
+- Installable as a Progressive Web App
+
+### Try ItemWorth
+
+[Launch the live app](https://offgrid-apps.github.io/ItemWorth/)
+
+[View the source repository](https://github.com/OffGrid-apps/ItemWorth)
+
+---
+
+Built independently using an Android phone and Termux.
